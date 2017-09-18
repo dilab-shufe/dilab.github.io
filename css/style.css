@@ -77,7 +77,7 @@ body{color:#333;font-family:'Century Schoolbook', sans-serif;font-size:14px;line
 #slide div, #slide p, #slide a, #slide li, #slide img{transition:none;-moz-transition:none;-o-transition:none;-webkit-transition:none;}
 img{max-width:100%;border:0 none;}
 #container{width:930px;margin:40px auto;}
-#header{height:82px;background:#8c1515;}
+#header{height:82px;background:#15328c;}
 #header-bottom{background:url("images/header-bottom.png") no-repeat scroll center top #EAE9E3;height:50px;margin:0 0 -60px;}
 img.site-logo, .site-title {max-width:250px;max-height:70px;padding:5px 0;float:left;}
 .site-title { padding: 20px 0; font-size: 35px; text-transform: uppercase; max-width: 300px; }
@@ -88,7 +88,7 @@ img.site-logo, .site-title {max-width:250px;max-height:70px;padding:5px 0;float:
 .content-ver-sep{background:none repeat scroll 0 0 #CCCCCC;border-bottom:1px solid #FFFFFF;clear:both;height:1px;}
 .lsep{background:url("images/lsep.png") no-repeat scroll top center #CCCCCC;clear:both;height:5px;margin:10px auto;}
 #right-sidebar{float:right;width:27%; margin-top:35px;}
-#footer{background:#8c1515;clear:both;padding:0px;min-width:930px;}
+#footer{background:#15328c;clear:both;padding:0px;min-width:930px;}
 .versep{background:none repeat scroll 0 0 #111111;border-bottom:1px solid #222222;border-top:80px solid #222222;height:2px;}
 #footer-content{width:930px;margin:0 auto;}
 #social{display:table;height:50px;margin:-70px auto 30px;padding:0 10px 10px;}
